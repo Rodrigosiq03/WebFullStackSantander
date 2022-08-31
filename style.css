@@ -1,0 +1,17 @@
+header {
+    background-color: blueviolet;
+    font-family: 'Roboto', regular;
+    font-size: 20px;
+    
+}
+#text-principal {
+    color: white;
+    background-color: crimson;
+    padding: 12px;
+    text-align: center;
+}
+#mark-phrase {
+    padding-bottom: 20px;
+    padding-left: 15px;
+
+}
