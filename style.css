@@ -1,17 +1,25 @@
-header {
+section header {
+    margin: 12px;
     background-color: blueviolet;
     font-family: 'Roboto', regular;
     font-size: 20px;
-    
+
+
 }
 #text-principal {
     color: white;
     background-color: crimson;
-    padding: 12px;
+    padding: 10px;
     text-align: center;
 }
 #mark-phrase {
     padding-bottom: 20px;
-    padding-left: 15px;
+    margin-left: 50px;
 
+}
+div header {
+    color: blueviolet;
+    background-color: black;
+    padding: 50px;
+    margin: 12px;
 }
